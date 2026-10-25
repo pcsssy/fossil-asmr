@@ -1,0 +1,30 @@
+# Dependencies and generated builds
+node_modules/
+dist/
+dist-ssr/
+*.ait
+*.tsbuildinfo
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+
+# Browser QA output, caches and logs
+.playwright-cli/
+output/
+playwright-report/
+test-results/
+__pycache__/
+*.py[cod]
+*.log
+logs/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "status": "normalized-runtime-integrated",
+  "targetCounts": {
+    "normal": 24,
+    "rare": 15,
+    "special": 8,
+    "legendary": 3
+  },
+  "rarityProbabilities": {
+    "normal": 0.6,
+    "rare": 0.28,
+    "special": 0.1,
+    "legendary": 0.02
+  },
+  "reclassificationDecision": "D007: rose quartz specimen-027 rare -> normal; category C heading normalized to 12; source prompt preserved",
+  "items": [
+    {
+      "id": "specimen-001",
+      "name": "공룡 발자국 화석",
+      "category": "A",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-002",
+      "name": "공룡 이빨 조각",
+      "category": "A",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-003",
+      "name": "공룡 갈비뼈",
+      "category": "A",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-004",
+      "name": "공룡 척추뼈",
+      "category": "A",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-005",
+      "name": "트리케라톱스 뿔",
+      "category": "A",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-006",
+      "name": "스테고사우루스 골판",
+      "category": "A",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-007",
+      "name": "드로마에오사우루스류 발톱",
+      "category": "A",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-008",
+      "name": "트리케라톱스 두개골",
+      "category": "A",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-009",
+      "name": "스피노사우루스 신경배돌기 화석",
+      "category": "A",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-010",
+      "name": "티라노사우루스 두개골",
+      "category": "A",
+      "rarity": "legendary",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-011",
+      "name": "소형 암모나이트",
+      "category": "B",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-012",
+      "name": "나선형 암모나이트",
+      "category": "B",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-013",
+      "name": "편평한 암모나이트",
+      "category": "B",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-014",
+      "name": "결절형 암모나이트",
+      "category": "B",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-015",
+      "name": "대형 암모나이트",
+      "category": "B",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-016",
+      "name": "황철석화 암모나이트",
+      "category": "B",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-017",
+      "name": "오팔화 암모나이트",
+      "category": "B",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-018",
+      "name": "완전 보존 암모나이트",
+      "category": "B",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-019",
+      "name": "석영",
+      "category": "C",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-020",
+      "name": "방해석",
+      "category": "C",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-021",
+      "name": "자수정",
+      "category": "C",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-022",
+      "name": "형석",
+      "category": "C",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-023",
+      "name": "황수정",
+      "category": "C",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-024",
+      "name": "석류석",
+      "category": "C",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-025",
+      "name": "청금석",
+      "category": "C",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-026",
+      "name": "아쿠아마린",
+      "category": "C",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-027",
+      "name": "로즈쿼츠",
+      "category": "C",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-028",
+      "name": "오팔 원석",
+      "category": "C",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-029",
+      "name": "천연 다이아몬드 원석",
+      "category": "C",
+      "rarity": "legendary",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-030",
+      "name": "거대 자수정 정동",
+      "category": "C",
+      "rarity": "legendary",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-031",
+      "name": "조개 인상 화석",
+      "category": "D",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-032",
+      "name": "가리비 화석",
+      "category": "D",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-033",
+      "name": "굴 화석",
+      "category": "D",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-034",
+      "name": "소라 화석",
+      "category": "D",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-035",
+      "name": "이매패류 화석",
+      "category": "D",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-036",
+      "name": "거대 조개 화석",
+      "category": "D",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-037",
+      "name": "고대 복족류 화석",
+      "category": "D",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-038",
+      "name": "완전 보존 조개군 화석",
+      "category": "D",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-039",
+      "name": "은행잎 화석",
+      "category": "E",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-040",
+      "name": "고사리 화석",
+      "category": "E",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-041",
+      "name": "단풍잎 화석",
+      "category": "E",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-042",
+      "name": "버드나무잎 화석",
+      "category": "E",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-043",
+      "name": "메타세쿼이아 잎 화석",
+      "category": "E",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-044",
+      "name": "야자잎 화석",
+      "category": "E",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-045",
+      "name": "완전 보존 잎맥 화석",
+      "category": "E",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-046",
+      "name": "소형 삼엽충",
+      "category": "F",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-047",
+      "name": "삼엽충 꼬리 화석",
+      "category": "F",
+      "rarity": "normal",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-048",
+      "name": "아사푸스",
+      "category": "F",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-049",
+      "name": "파코프스",
+      "category": "F",
+      "rarity": "rare",
+      "assetStatus": "integrated"
+    },
+    {
+      "id": "specimen-050",
+      "name": "가시 삼엽충 완전체",
+      "category": "F",
+      "rarity": "special",
+      "assetStatus": "integrated"
+    }
+  ],
+  "declaredCategoryCounts": {
+    "A": 10,
+    "B": 8,
+    "C": 12,
+    "D": 8,
+    "E": 7,
+    "F": 5
+  }
+}

@@ -1,0 +1,13 @@
+@import '../../harness/design-tokens.css';
+* { box-sizing: border-box; }
+:root { font-family: var(--font-body); color: var(--color-text); background: #eae3d7; color-scheme: light; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { margin: 0; min-width: 320px; }
+button, input, select { font: inherit; }
+button { color: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent; border: 0; background: transparent; }
+button, a, input, select, canvas { touch-action: manipulation; }
+button:focus-visible, input:focus-visible, select:focus-visible, canvas:focus-visible { outline: 2px solid #795139; outline-offset: 5px; }
+button:disabled { cursor: wait; opacity: .6; }
+img { display: block; max-width: 100%; }
+h1, h2, p { margin: 0; }
+::selection { background: #ddc9ac; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; } }

@@ -1,0 +1,22 @@
+:root {
+  --color-background: #f6f1e7;
+  --color-surface: #fffcf6;
+  --color-text: #302820;
+  --color-text-secondary: #706154;
+  --color-border: #dfd4c3;
+  --color-primary: #795139;
+  --color-on-primary: #ffffff;
+  --color-rare: #32667a;
+  --color-special: #76558d;
+  --color-legendary: #8c681f;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --radius-panel: 20px;
+  --touch-target: 48px;
+  --button-height: 56px;
+}
